@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ChatterWave.**
 
-- 🌱 I’m currently learning **AI and Machine Learning with Python.**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly update myself on [https://www.linkedin.com/in/anisha-dhakal/](https://www.linkedin.com/in/anisha-dhakal/)
 
